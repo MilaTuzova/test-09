@@ -1,0 +1,24 @@
+{
+    "name": "test-09",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"I ready\"",
+        "start": "node index.js",
+        "app": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MilaTuzova/test-09.git"
+    },
+    "author": "Mila <tuzovals@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MilaTuzova/test-09/issues"
+    },
+    "homepage": "https://github.com/MilaTuzova/test-09#readme",
+    "dependencies": {
+        "shortid": "^2.2.16"
+    }
+}
